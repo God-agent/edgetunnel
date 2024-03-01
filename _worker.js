@@ -849,7 +849,7 @@ async function getVLESSConfig(userID, hostName, sub, userAgent, RproxyIP) {
 	---------------------------------------------------------------
 	################################################################
 	telegram 交流群 技术大佬~在线发牌!
-	https://t.me/CMLiussss
+	https://t.me/liusun666
 	---------------------------------------------------------------
 	github 项目地址 Star!Star!Star!!!
 	https://github.com/cmliu/edgetunnel
