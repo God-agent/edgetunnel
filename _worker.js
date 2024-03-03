@@ -848,12 +848,12 @@ async function getVLESSConfig(userID, hostName, sub, userAgent, RproxyIP) {
 		  host: ${hostName}
 	---------------------------------------------------------------
 	################################################################
-	telegram 交流群 技术大佬~在线发牌!
+	telegram 交流
 	https://t.me/liusun666
 	---------------------------------------------------------------
-	github 项目地址 Star!Star!Star!!!
-	https://github.com/cmliu/edgetunnel
-	---------------------------------------------------------------
+        telegram 交流群
+	https://t.me/+vGsMY8tJPeg3ZDNh
+        ---------------------------------------------------------------
 	################################################################
 	`;
 	} else if (sub && userAgent.includes('clash')) {
